@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hang Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,66 +10,71 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The University of Queensland
+  url: "https://www.uq.edu.au/"
+- name: ielab
+  url: "http://ielab.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include information retrieval, conversational search, response ranking, and systematic reviews.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
 - Information Retrieval
+- Conversational Search
+- Response Ranking
+- Systematic Review
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: The University of Queensland
+    year: 2020
+  - course: BSc in Computer Science
+    institution: The University of Minnesota, Twin-Cities
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: envelope-square
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:hang.li4@uq.net.au'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter-square
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/hanglics
+- icon: git-square
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/hanglics
+- icon: facebook-square
+  icon_pack: fab
+  link: "https://www.facebook.com/Cecillll.Lee"
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/hanglee/"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv-square
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "cecillll.lee@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently pursuing PhD degree at <a href="https://ielab.io" target="_blank">ielab</a> in The University of Queensland, Australia, supervised by <a href="http://ielab.io/people/guido-zuccon" target="_blank">Dr. Guido Zuccon</a>. I was graduated from the University of Minnesota Twin-Cities with my Bachelor of Science degree in United States in 2016.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+For my PhD study, I am mainly focusing on researching how to improve the agricultural QA systems with Information Retrieval, which aim to assist farmers to make accurate growing decisions by developing new methods and machine learning models.
+
+My publications are listed in this page along with corresponding github repos.
