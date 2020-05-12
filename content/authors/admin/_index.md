@@ -73,7 +73,7 @@ user_groups: []
 # - Visitors
 ---
 
-I am currently pursuing PhD degree at <a href="https://ielab.io" target="_blank">ielab</a> in The University of Queensland, Australia, supervised by <a href="http://ielab.io/people/guido-zuccon" target="_blank">Dr. Guido Zuccon</a>. I was graduated from the University of Minnesota Twin-Cities with my Bachelor of Science degree in United States in 2016.
+I am currently pursuing PhD degree at <a href="https://ielab.io" target="_blank">ielab</a> in The University of Queensland, Australia, supervised by <a href="http://ielab.io/people/guido-zuccon" target="_blank">Dr. Guido Zuccon</a> and <a href="http://koopman.id.au/" target="_blank">Dr. Bevan Koopman</a>. I was graduated from the University of Minnesota Twin-Cities with my Bachelor of Science degree in United States in 2016.
 
 For my PhD study, I am mainly focusing on researching how to improve the agricultural QA systems with Information Retrieval, which aim to assist farmers to make accurate growing decisions by developing new methods and machine learning models.
 
