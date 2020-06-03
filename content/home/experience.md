@@ -25,6 +25,5 @@ date_format = "Jan 2006"
   location = "INFS3202/7202 - Web Information System"
   date_start = "2020-02-24"
   date_end = "2020-06-05"
-  description = """Responsible for 4 practical sessions."""
 
 +++
