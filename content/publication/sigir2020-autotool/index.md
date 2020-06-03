@@ -37,7 +37,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: files/sigir2020_tools.pdf
 url_code: https://github.com/ielab/searchrefiner
 url_dataset:
 url_poster:
