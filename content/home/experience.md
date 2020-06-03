@@ -22,9 +22,9 @@ date_format = "Jan 2006"
   title = "Teaching Assistant"
   company = "The University of Queensland"
   company_url = "https://www.uq.edu.au/"
-  location = "St. Lucia"
+  location = "INFS3202/7202 - Web Information System"
   date_start = "2020-02-24"
   date_end = "2020-06-05"
-  description = """Teaching assistant in INFS3202/7202 Web Information System, responsible for 4 practical sessions."""
+  description = """Responsible for 4 practical sessions."""
 
 +++
