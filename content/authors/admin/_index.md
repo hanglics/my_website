@@ -20,13 +20,13 @@ organizations:
   url: "http://ielab.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include information retrieval, conversational search, response ranking, and systematic reviews.
+bio: My border research interests include Information Retrieval, Natural Language Processing, Conversational Search, and Machine Learning.
 
 interests:
 - Information Retrieval
+- Natural Language Processing
 - Conversational Search
-- Response Ranking
-- Systematic Review
+- Machine Learning
 
 education:
   courses:
@@ -73,8 +73,8 @@ user_groups: []
 # - Visitors
 ---
 
-I am currently pursuing PhD degree at <a href="https://ielab.io" target="_blank">ielab</a> in The University of Queensland, Australia, supervised by <a href="http://ielab.io/people/guido-zuccon" target="_blank">Dr. Guido Zuccon</a> and <a href="http://koopman.id.au/" target="_blank">Dr. Bevan Koopman</a>. I was graduated from the University of Minnesota Twin-Cities with my Bachelor of Science degree in United States in 2016.
+I am currently pursuing the PhD degree at <a href="https://ielab.io" target="_blank">ielab</a> in The University of Queensland, Australia, supervised by <a href="http://ielab.io/people/guido-zuccon" target="_blank">Dr. Guido Zuccon</a> and <a href="http://koopman.id.au/" target="_blank">Dr. Bevan Koopman</a>. I was graduated from the University of Minnesota Twin-Cities with my Bachelor of Science degree in United States in 2016.
 
-For my PhD study, I am mainly focusing on researching how to improve the agricultural QA systems with Information Retrieval, which aim to assist farmers to make accurate growing decisions by developing new methods and machine learning models.
+For my PhD study, my main focus is to develop different machine learning approaches to improve the effectiveness in conversational search settings, my broader research topics include conversational AI, multi-modal system, and natural language understanding.
 
 My publications are listed in this page along with corresponding github repos.
