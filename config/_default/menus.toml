@@ -16,12 +16,12 @@
 [[main]]
   name = "Honors & Awards"
   url = "#accomplishments"
-  weight = 80
+  weight = 150
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 100
+  weight = 200
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
