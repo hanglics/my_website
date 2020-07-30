@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "ACM SIGIR"
-  organization_url = "https://sigir2020.org"
+  organization_url = "https://sigir.org/sigir2020/"
   title = "SIGIR Student Travel Grant"
   url = ""
   certificate_url = ""
