@@ -20,7 +20,7 @@ organizations:
   url: "http://ielab.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My border research interests include Information Retrieval, Natural Language Processing, Conversational Search, and Machine Learning.
+bio: Hang's border research interests include Information Retrieval, Natural Language Processing, Conversational Search, and Machine Learning.
 
 interests:
 - Information Retrieval
@@ -51,9 +51,6 @@ social:
 - icon: git-square
   icon_pack: fab
   link: https://github.com/hanglics
-- icon: facebook-square
-  icon_pack: fab
-  link: "https://www.facebook.com/Cecillll.Lee"
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/hanglee/"
@@ -62,6 +59,15 @@ social:
 - icon: cv-square
   icon_pack: ai
   link: files/cv.pdf
+- icon: orcid-square
+  icon_pack: ai
+  link: "https://orcid.org/0000-0002-5317-7227"
+- icon: google-scholar-square
+  icon_pack: ai
+  link: "https://scholar.google.com/citations?user=LS67b08AAAAJ&hl=en"
+- icon: researchgate-square
+  icon_pack: ai
+  link: "https://www.researchgate.net/profile/Hang_Li66/research"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "cecillll.lee@gmail.com"
@@ -73,8 +79,8 @@ user_groups: []
 # - Visitors
 ---
 
-I am currently pursuing the PhD degree at <a href="https://ielab.io" target="_blank">ielab</a> in The University of Queensland, Australia, supervised by <a href="http://ielab.io/people/guido-zuccon" target="_blank">Dr. Guido Zuccon</a> and <a href="http://koopman.id.au/" target="_blank">Dr. Bevan Koopman</a>. I was graduated from the University of Minnesota Twin-Cities with my Bachelor of Science degree in United States in 2016.
+Hang is currently first-year PhD student at <a href="https://ielab.io" target="_blank">ielab</a> in The University of Queensland, Australia, he works with <a href="http://ielab.io/people/guido-zuccon" target="_blank">Dr. Guido Zuccon</a> and <a href="http://koopman.id.au/" target="_blank">Dr. Bevan Koopman</a>. He was granted the Bachelor of Science in Computer Science at <a href="https://umn.edu/" target="_blank">the University of Minnesota Twin-Cities</a> in United States in 2016.
 
-For my PhD study, my main focus is to develop different machine learning approaches to improve the effectiveness in conversational search settings, my broader research topics include conversational AI, multi-modal system, and natural language understanding.
+He is now working on developing different machine learning approaches to improve the effectiveness in conversational search settings, broader research topics include conversational AI, multi-modal system, and natural language understanding (mainly within the conversational scenarios).
 
-My publications are listed in this page along with corresponding github repos.
+Publications are listed in this page along with corresponding github repos.

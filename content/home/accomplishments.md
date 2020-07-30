@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "ACM SIGIR"
+  organization_url = "https://sigir2020.org"
+  title = "SIGIR Student Travel Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-25"
+  date_end = "2020-07-30"
+  description = ""
+
+[[item]]
   organization = "The University of Queensland, Australia"
   organization_url = "https://uq.edu"
   title = "Dean's Commendation of Academic Excellence"
