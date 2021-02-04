@@ -37,8 +37,8 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: files/ecir2021.pdf
+url_code: https://github.com/ielab/GPT_Ranker
 url_dataset:
 url_poster:
 url_project:
