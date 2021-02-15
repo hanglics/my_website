@@ -32,5 +32,13 @@ date_format = "Jan 2006"
   company_url = "https://www.uq.edu.au/"
   location = "INFS7410 - Information Retrieval and Web Search"
   date_start = "2020-08-03"
+  date_end = "2020-11-11"
+  
+[[experience]]
+  title = "Head of TA"
+  company = "The University of Queensland"
+  company_url = "https://www.uq.edu.au/"
+  location = "INFS3202/7202 - Web Information System"
+  date_start = "2021-03-01"
   date_end = ""
 +++
